@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(127, 148, 51);
+}
+
+
+
+td, th {
+	border: 3px solid;
+    background-color: black;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+  }
+
+  td img {
+    height: auto;
+    width: auto;
+    max-width: 420px;
+  }
+
+  h1{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: white;
+  }
+
+  .empty-header {
+    background-color: transparent;
+    }
+
+    .planet-header {
+        font-weight: bolder;
+        color: white;
+        text-transform: uppercase;
+    }
+
+
